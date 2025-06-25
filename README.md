@@ -1,6 +1,6 @@
-# goEvent
+# EventHive
 
-**goEvent** is a JavaFX-based desktop application designed for efficient event registration and management. Built entirely with programmatic JavaFX (no FXML), it supports both admin and user roles, offers a searchable event interface, and manages real-time participant tracking via a MySQL backend.
+**EventHive** is a JavaFX-based desktop application designed for efficient event registration and management. Built entirely with programmatic JavaFX (no FXML), it supports both admin and user roles, offers a searchable event interface, and manages real-time participant tracking via a MySQL backend.
 
 ---
 
